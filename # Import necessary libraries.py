@@ -45,3 +45,4 @@ result = logit_model.fit()
 # Print detailed regression summary
 print("\nDetailed regression summary:")
 print(result.summary())
+"GO BREWERS"
